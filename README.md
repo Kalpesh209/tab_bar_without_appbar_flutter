@@ -43,11 +43,19 @@ Set iOS deployment target
     - Select Product -> Archive
     - Follow the uploading steps
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+𝐒𝐭𝐢𝐥𝐥 𝐍𝐞𝐞𝐝 𝐚 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐟𝐨𝐫 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭 ❓
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+𝐇𝐢𝐫𝐞 𝐦𝐞 : 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐟𝐢𝐯𝐞𝐫𝐫.𝐜𝐨𝐦/𝐮𝐬𝐞𝐫𝐬/𝐤𝐚𝐥𝐩𝐞𝐬𝐡𝐤𝐡𝐚𝐧𝐝𝐥𝐚/𝐬𝐞𝐥𝐥𝐞𝐫_𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
+𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧: 𝐡𝐭𝐭𝐩𝐬://𝐰𝐰𝐰.𝐥𝐢𝐧𝐤𝐞𝐝𝐢𝐧.𝐜𝐨𝐦/𝐢𝐧/𝐤𝐚𝐥𝐩𝐞𝐬𝐡-𝐤𝐡𝐚𝐧𝐝𝐥𝐚-𝟏𝟏𝟔𝟗𝟑𝟓𝟒𝟏/
+𝐓𝐰𝐢𝐭𝐭𝐞𝐫 : 𝐡𝐭𝐭𝐩𝐬://𝐭𝐰𝐢𝐭𝐭𝐞𝐫.𝐜𝐨𝐦/𝐤𝐡𝐚𝐧𝐝𝐥𝐚𝟐𝟎 
+𝐄𝐦𝐚𝐢𝐥   :𝐤𝐡𝐚𝐧𝐝𝐥𝐚𝐤𝐚𝐥𝐩𝐞𝐬𝐡𝟐𝟎@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
+
+𝐋𝐞𝐭 𝐦𝐞 𝐤𝐧𝐨𝐰 𝐢𝐟 𝐢 𝐜𝐚𝐧 𝐚𝐬𝐬𝐢𝐬𝐭 𝐲𝐨𝐮 𝐰𝐢𝐭𝐡 𝐟𝐥𝐮𝐭𝐭𝐞𝐫 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
+
+𝐊𝐢𝐧𝐝 𝐑𝐞𝐠𝐚𝐫𝐝𝐬,
+𝐊𝐚𝐥𝐩𝐞𝐬𝐡 𝐊𝐡𝐚𝐧𝐝𝐥𝐚
+
+
+
