@@ -1,11 +1,9 @@
-# tabbar_without_appbarflutter
+# tabbar_without_appbar_flutter
 
-A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
 
 /*
 Title:Tab Bar Without AppBar
